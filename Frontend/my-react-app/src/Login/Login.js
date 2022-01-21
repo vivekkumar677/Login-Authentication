@@ -15,7 +15,7 @@ function Login(){
 
             <div className="reg-button-div">
                 <h1>Not a User? Register</h1>
-                <Link className="login-reg-link" to="/Register">REGISTER</Link>
+                <Link className="login-reg-link" to="/Register">LOGIN</Link>
             </div>
         </div>
     );

@@ -23,7 +23,7 @@ function Register(){
 
             <div className="login-button-div">
                 <h3>Already a user? Login</h3>
-                <Link className="reg-login-link" to="/Login">LOGIN</Link>
+                <Link className="reg-login-link" to="/Login">REGISTER</Link>
             </div>
         </div>
     );
